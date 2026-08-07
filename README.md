@@ -108,7 +108,7 @@ The code in `main.py` invokes functions written in `logical.py`, ` runtime.py`, 
     ~/Developer/activities/errors-and-debugging
     ``` 
 
-2. From the root of the project directory, execute this command in the terminal `python main.py` 
+2. To execute the code in this repo, from the root of the project directory, execute this command in the terminal `python main.py` 
 3. Observe how Python reports the error in the stack trace. Make sure to work through the issues __together__ using VS Code’s LiveShare or Zoom screen sharing!
 4. Pay attention to
     * File names
