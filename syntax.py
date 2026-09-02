@@ -1,7 +1,7 @@
 def map_character_frequency(words):
     char_map = {}
     for word in words:
-        for character on word:
+        for character in word:
             if character not in char_map:
                 char_map{character} = 1
           else:
